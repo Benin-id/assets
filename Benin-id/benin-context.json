@@ -1,0 +1,23 @@
+{
+	"@context": {
+		"@version": 1.1,
+		"@protected": true,
+		"type": "@type",
+		"schema": "https://schema.org/",
+		"ReniecCredential": {
+			"@id": "https://peru-id.github.io/inji-config/Reniec-Peru/reniec-context.json#ReniecCredential"
+		},
+		"firstName": "schema:name",
+		"lastName": "schema:name",
+		"motherName": "schema:name",
+		"dateOfBirth": "schema:birthDate",
+		"gender": "schema:gender",
+		"nationality": "schema:Text",
+		"birthPlace": "schema:Text",
+		"phoneNumber": "schema:Text",
+		"npi": "schema:Text",
+		"email": "schema:Text",
+		"profession": "schema:Text",
+		"face": "schema:Text"
+	}
+}
