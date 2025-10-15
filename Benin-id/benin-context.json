@@ -12,12 +12,12 @@
 		"motherName": "schema:name",
 		"dateOfBirth": "schema:birthDate",
 		"gender": "schema:gender",
-		"nationality": "schema:Text",
-		"birthPlace": "schema:Text",
-		"phoneNumber": "schema:Text",
-		"npi": "schema:Text",
-		"email": "schema:Text",
-		"profession": "schema:Text",
+		"nationality": "schema:nationality",
+		"birthPlace": "schema:birthPlace",
+		"phoneNumber": "schema:phoneNumber",
+		"npi": "schema:identifier",
+		"email": "schema:email",
+		"profession": "schema:profession",
 		"face": "schema:Text"
 	}
 }
